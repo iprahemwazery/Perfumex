@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:perfumex/widget/favorit_data.dart';
+import 'package:perfumex/features/auth/data/favorit_data.dart';
 
 class FavoritePage extends StatefulWidget {
   const FavoritePage({super.key});

@@ -1,18 +1,36 @@
-# perfumex
+# WazeryShop - Perfume E-Commerce
 
-A new Flutter project.
+**WazeryShop** is a Flutter-based **E-Commerce** app for buying perfumes online. It allows users to browse a wide range of perfumes, add products to their cart, and complete the purchase through a seamless checkout process.
 
-## Getting Started
+## 🎯 Project Objective
 
-This project is a starting point for a Flutter application.
+The goal of WazeryShop is to provide users with a smooth and intuitive shopping experience for purchasing perfumes from a mobile app built with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## 👤 About the Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Ibrahim Wazery**  
+Founder of [wazery.net](https://wazery.net), a platform for all things related to perfumes and e-commerce solutions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Perfumex
-# Perfumex
+## 📱 App Screenshots
+
+### Home Page
+
+![Home Page](images/home.jpg)
+
+### Cart Page
+
+![Cart Page](images/cart.jpg)
+
+### Single Product Page
+
+![Single Product Page](images/single.jpg)
+
+### Checkout Page
+
+![Splash Screen Page](images/splash_screen.jpg)
+
+![Network Error Page](images/Network_error.jpg)
+
+### Checkout Page
+
+![Favorite Page](images/favorite.jpg)

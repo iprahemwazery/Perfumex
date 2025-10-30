@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:perfumex/page/cart_data.dart';
-import 'package:perfumex/page/splash/splash_screen.dart';
+import 'package:perfumex/features/auth/data/cart_data.dart';
+import 'package:perfumex/features/splash/view/splash_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:perfumex/page/cart_page.dart';
-import 'package:perfumex/page/favorite_page.dart';
-import 'package:perfumex/page/progict_filter.dart';
+import 'package:perfumex/features/cart/view/cart_page.dart';
+import 'package:perfumex/features/favorite/favorite_page.dart';
+import 'package:perfumex/features/auth/data/progict_filter.dart';
 
 class Drawerd extends StatelessWidget {
   const Drawerd({super.key});
